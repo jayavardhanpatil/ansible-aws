@@ -1,0 +1,3 @@
+- import_playbook: ping.yml
+- import_playbook: shell.yml
+- import_playbook: variables.yml
